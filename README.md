@@ -12,4 +12,5 @@
 - <img align="left" alt="priyanshudubey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/priyanshudubey/
 - <img align="left" alt="gmail | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />priyanshu0dubey@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=priyanshudubey&theme=highcontrast&show_icons=true&hid=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_owner=true&theme=highcontrast&show_icons=true&hid=contribs,prs)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&theme=highcontrast&layout=compact)](https://github.com/priyanshudubey)
