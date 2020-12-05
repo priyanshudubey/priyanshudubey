@@ -1,6 +1,6 @@
 ### Hi! I am Priyanshu Dubey, a final year undergrad majoring in CSE from SISTec Bhopal 👋
 
-[![HitCount](http://hits.dwyl.com/priyanshudubey/priyanshudubey.svg)](http://hits.dwyl.com/priyanshudubey/priyanshudubey)
+[![HitCount](http://hits.dwyl.com/priyanshudubey/{project}.svg)](http://hits.dwyl.com/priyanshudubey/{project})
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Django
