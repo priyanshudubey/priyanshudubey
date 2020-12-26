@@ -2,9 +2,8 @@
 
 [![HitCount](http://hits.dwyl.com/priyanshudubey/{project}.svg)](http://hits.dwyl.com/priyanshudubey/{project})
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on some open source projects
+- 🔭 Currently working on MERN Stack
+- 🌱 Learning Django
 - ⚡ Fun fact: I am going to graduate because of google, stackoverflow and github
 
 ### Connect with me:
