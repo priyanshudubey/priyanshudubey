@@ -7,13 +7,13 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:priyanshu0dubey@gmail.com">
-  <img align="left" width="26px" src="https://icons8.com/icon/13922/email">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://dev.to/priyanshudubey">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br />
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=priyanshudubey.priyanshudubey) <br />
