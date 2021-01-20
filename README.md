@@ -23,4 +23,4 @@
 - 🔭 I enjoy learning new technologies and I am a quick learner.
 
 ![](https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&theme=highcontrast&layout=compact)](https://github.com/priyanshudubey)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact)](https://github.com/priyanshudubey)
