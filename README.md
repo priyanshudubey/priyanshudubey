@@ -1,5 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://priyanshu-portfolio.herokuapp.com/) 
-
+<br />
+<em>
+  I am a final year undergrad majoring in CSE from <b>Sagar Institute of Science and Technology</b>. I am looking for an Internship or any full time opportunity
+  Where I can effectively contribute to the best of my knowledge.
+</em>
 
 <br />
 
