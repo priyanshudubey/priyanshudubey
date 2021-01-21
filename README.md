@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://priyanshu-portfolio.herokuapp.com/) 
 <br />
 
-<img align="right" alt="PC GIF" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/priyanshudubey/priyanshudubey/blob/main/giphy.gif" width="190" />
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
   <iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
