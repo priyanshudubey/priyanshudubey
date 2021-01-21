@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://priyanshu-portfolio.herokuapp.com/) 
 <br />
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe align="right" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv"></a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv"></a></p>
 <p>
 <em>
   I am a final year undergrad majoring in CSE from <b>Sagar Institute of Science and Technology</b>. I am looking for an Internship or any full time opportunity
