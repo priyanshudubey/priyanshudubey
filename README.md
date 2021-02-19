@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://priyanshu-portfolio.herokuapp.com/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://priyanshudubey.me/) 
 <br />
 
 <img align="right" alt="PC GIF" src="https://github.com/priyanshudubey/priyanshudubey/blob/main/giphy.gif" width="190" />
