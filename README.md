@@ -4,8 +4,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/priyanshudubey/priyanshudubey/blob/main/giphy.gif" width="190" />
 <p>
 <em>
-  I am a final year undergrad majoring in CSE from <b>Sagar Institute of Science and Technology</b>. I am looking for an Internship or any full time opportunity
-  Where I can effectively contribute to the best of my knowledge.
+  I have completed my B.Tech(Hons.) in CSE from <b>Sagar Institute of Science and Technology</b>. Currently I am working as a Systems Engineer in TCS.
 </em>
   </p>
 
