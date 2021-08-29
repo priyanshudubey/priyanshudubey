@@ -36,9 +36,9 @@
 
 <br />
 <br />
-<div align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact)](https://github.com/priyanshudubey)
-<br />
-![](https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true)
-
+<div align="center" width="50">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact">
+  <br>
+  <hr color="white">
+  <img src = "https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true">
 </div>
