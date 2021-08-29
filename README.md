@@ -1,7 +1,7 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu!](https://priyanshudubey.me/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Priyanshu!](https://priyanshudubey.me/) 
 <br />
 
-<img align="right" alt="PC GIF" src="https://github.com/priyanshudubey/priyanshudubey/blob/main/giphy.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/priyanshudubey/priyanshudubey/blob/main/giphy.gif" width="250" />
 <p>
 <em>
   I have completed my B.Tech(Hons.) in CSE from <b>Sagar Institute of Science and Technology</b>. Currently I am working as a Systems Engineer in TCS.
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
+  <br>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -59,14 +60,16 @@
 <br />
 <br />
 
+
 # Github Stats
 <div align="center" width="50">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&theme=prussian&layout=compact">
   <br>
   <hr color="white">
-  <img src = "https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true">
+  <img width="450" src = "https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&theme=prussian&hide_border=true">
   <br>
   <hr color="white">
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshudubey&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 </div>
 
