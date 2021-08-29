@@ -36,6 +36,9 @@
 
 <br />
 <br />
-
-![](https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true)
+<div align="center">
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact)](https://github.com/priyanshudubey)
+<br />
+![](https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true)
+
+</div>
