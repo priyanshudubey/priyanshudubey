@@ -13,8 +13,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=priyanshudubey.priyanshudubey) <br />
 
-- 🔭 Currently working on MERN Stack and looking for an opportunity in it.
-- 🔭 I love Javascript and Python.
+- 🔭 Working on MERN and MEAN Stack.
+- 🔭 Love Javascript and Python.
 - 🔭 I enjoy learning new technologies and I am a quick learner.
 
 
