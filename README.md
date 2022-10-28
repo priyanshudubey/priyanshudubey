@@ -2,7 +2,6 @@
 <br />
 <img src="https://github-hero-readme.vercel.app/api?username=priyanshudubey&description=Systems%20Engineer%20@TCS%20&width='100%'">
 
-<img align="right" alt="PC GIF" src="https://github.com/priyanshudubey/priyanshudubey/blob/main/giphy.gif" width="250" />
 <p>
 <em>
   I have completed my B.Tech(Hons.) in CSE from <b>Sagar Institute of Science and Technology</b>. Currently I am working as a Systems Engineer in TCS.
