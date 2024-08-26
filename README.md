@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@priyanshu0dubey](https://medium.com/@priyanshu0dubey)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F1E4ib7D01dPU0dWbMDVLc1WEO-36Y3_/view?usp=sharing](https://drive.google.com/file/d/1F1E4ib7D01dPU0dWbMDVLc1WEO-36Y3_/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1F1E4ib7D01dPU0dWbMDVLc1WEO-36Y3_/view?usp=sharing">Resume </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
