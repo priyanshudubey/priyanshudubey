@@ -86,7 +86,9 @@
 
 ### 📊 My GitHub Stats & Trophies
 <p align="center">
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshudubey&layout=compact&theme=dracula)](https://wakatime.com/@priyanshudubey)
+  <a href="https://wakatime.com/@priyanshudubey">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshudubey&layout=compact&theme=dracula" alt="WakaTime Stats" />
+  </a>
 </p>
 
 
