@@ -85,14 +85,10 @@
 ---
 
 ### 📊 My GitHub Stats & Trophies
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshudubey&layout=compact&theme=dracula)](https://wakatime.com/@priyanshudubey)
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshudubey&theme=algolia&margin-w=15&margin-h=15" alt="github trophies" />
-  </a>
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshudubey&layout=compact&theme=dracula)](https://wakatime.com/@priyanshudubey)
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&theme=tokyonight" alt="Priyanshu's GitHub stats"/>
