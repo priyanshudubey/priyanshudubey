@@ -85,9 +85,5 @@
 ---
 
 ### 📊 My GitHub Stats & Trophies
-<p align="center">
-  <a href="https://wakatime.com/@priyanshudubey">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshudubey&layout=compact&theme=dracula" alt="WakaTime Stats" />
-  </a>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=priyanshudubey&layout=compact&theme=dracula" alt="WakaTime Stats" />
 
