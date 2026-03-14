@@ -6,7 +6,12 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/priyanshudubey"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Building+DevElevator+🚀;Backend+Dev+%7C+AWS+%7C+Node.js;Teaching+Code+on+YouTube;Always+learning+something+new" width="100%" /></a>
+  <a href="https://github.com/priyanshudubey#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&random=true&width=435&lines=Building+DevElevator+🚀;Backend+Dev+%7C+AWS+%7C+Node.js;Teaching+Code+on+YouTube;Always+learning+something+new#gh-light-mode-only" alt="Typing Banner Light" />
+  </a>
+  <a href="https://github.com/priyanshudubey#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&random=true&width=435&lines=Building+DevElevator+🚀;Backend+Dev+%7C+AWS+%7C+Node.js;Teaching+Code+on+YouTube;Always+learning+something+new#gh-dark-mode-only" alt="Typing Banner Dark" />
+  </a>
 </p>
 
 <h3 align="center">👋 About Me</h3>
