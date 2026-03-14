@@ -1,5 +1,8 @@
 <a href="https://github.com/priyanshudubey#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey!%20I'm%20Priyanshu&textBg=false&fontAlign=50&fontAlignY=39&reversal=true&section=header" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey!%20I'm%20Priyanshu&textBg=false&fontAlign=50&fontAlignY=39&reversal=true&section=header#gh-light-mode-only" alt="Header Light" width="100%" />
+</a>
+<a href="https://github.com/priyanshudubey#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hey!%20I'm%20Priyanshu&textBg=false&fontAlign=50&fontAlignY=39&reversal=true&section=header#gh-dark-mode-only" alt="Header Dark" width="100%" />
 </a>
 
 <p align="center">
@@ -100,5 +103,8 @@
 <br>
 
 <a href="https://github.com/priyanshudubey#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting&textBg=false&fontAlign=50&fontAlignY=73&reversal=true&section=footer&fontSize=40" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting&textBg=false&fontAlign=50&fontAlignY=73&reversal=true&section=footer&fontSize=40#gh-light-mode-only" alt="Footer Light" width="100%" />
+</a>
+<a href="https://github.com/priyanshudubey#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&text=Thanks%20for%20visiting&textBg=false&fontAlign=50&fontAlignY=73&reversal=true&section=footer&fontSize=40#gh-dark-mode-only" alt="Footer Dark" width="100%" />
 </a>
