@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/priyanshudubey#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&random=true&width=500&lines=Building+DevElevator+🚀;Architecting+Scalable+Backend+Systems+⚡;Teaching+Backend+Dev+on+YouTube+🎥;Tech+Stack:+Node.js+|+AWS+|+MySQL+🐬#gh-light-mode-only" alt="Typing Banner Light" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&random=true&width=500&lines=Building+DevElevator;Architecting+Scalable+Backend+Systems;Teaching+Backend+Dev+on+YouTube;Tech+Stack:+Node.js,+AWS,+MySQL#gh-light-mode-only" alt="Typing Banner Light" />
   </a>
   <a href="https://github.com/priyanshudubey#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&random=true&width=500&lines=Building+DevElevator+🚀;Architecting+Scalable+Backend+Systems+⚡;Teaching+Backend+Dev+on+YouTube+🎥;Tech+Stack:+Node.js+|+AWS+|+MySQL+🐬#gh-dark-mode-only" alt="Typing Banner Dark" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&random=true&width=500&lines=Building+DevElevator;Architecting+Scalable+Backend+Systems;Teaching+Backend+Dev+on+YouTube;Tech+Stack:+Node.js,+AWS,+MySQL#gh-dark-mode-only" alt="Typing Banner Dark" />
   </a>
 </p>
 
