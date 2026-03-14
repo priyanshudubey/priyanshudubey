@@ -14,13 +14,20 @@
   </a>
 </p>
 
-<h3 align="center">👋 About Me</h3>
 <p align="center">
-  🔭 I’m currently working on <b>DevElevator</b><br>
-  👨‍💻 All of my projects are available at <a href="https://priyanshudubey.com/">priyanshudubey.com</a><br>
-  📝 I regularly write articles on <a href="https://medium.com/@priyanshu0dubey">Medium</a><br>
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/1F1E4ib7D01dPU0dWbMDVLc1WEO-36Y3_/view?usp=sharing">View my Resume</a>
+  <a href="https://priyanshudubey.com/">
+    <img src="https://img.shields.io/badge/Portfolio-priyanshudubey.com-00599C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@priyanshu0dubey">
+    <img src="https://img.shields.io/badge/Articles-Medium_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1F1E4ib7D01dPU0dWbMDVLc1WEO-36Y3_/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-D14836?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
 </p>
+<br>
 
 <br>
 
