@@ -1,122 +1,204 @@
-<a href="https://github.com/priyanshudubey#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey!%20I'm%20Priyanshu&textBg=false&fontAlign=50&fontAlignY=39&reversal=true&section=header#gh-light-mode-only" alt="Header Light" width="100%" />
+
+<!--
+  PRIYANSHU DUBEY | GitHub Profile
+  Concept: The Engineer's Workbench
+-->
+
+<div align="center">
+
+<a href="https://github.com/priyanshudubey">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=PRIYANSHU%20DUBEY&fontSize=48&fontColor=ffffff&stroke=8B5CF6&strokeWidth=1&animation=fadeIn&color=0:09090b,50:17102b,100:09090b&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20Explorer&descSize=16&descAlignY=70" width="100%" />
 </a>
-<a href="https://github.com/priyanshudubey#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hey!%20I'm%20Priyanshu&textBg=false&fontAlign=50&fontAlignY=39&reversal=true&section=header#gh-dark-mode-only" alt="Header Dark" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=I+build+things+that+work+behind+the+scenes.;Turning+ideas+into+working+software.;Exploring+the+intersection+of+Backend+%26+AI.;Building.+Breaking.+Learning.+Repeating." alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://github.com/priyanshudubey#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&random=true&width=500&lines=Building+DevElevator;Architecting+Scalable+Backend+Systems;Teaching+Backend+Dev+on+YouTube;Tech+Stack:+Node.js,+AWS,+MySQL#gh-light-mode-only" alt="Typing Banner Light" />
-  </a>
-  <a href="https://github.com/priyanshudubey#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&random=true&width=500&lines=Building+DevElevator;Architecting+Scalable+Backend+Systems;Teaching+Backend+Dev+on+YouTube;Tech+Stack:+Node.js,+AWS,+MySQL#gh-dark-mode-only" alt="Typing Banner Dark" />
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://priyanshudubey.com/">
-    <img src="https://img.shields.io/badge/Portfolio-priyanshudubey.com-00599C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@priyanshu0dubey">
-    <img src="https://img.shields.io/badge/Articles-Medium_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1F1E4ib7D01dPU0dWbMDVLc1WEO-36Y3_/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-D14836?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</p>
-<br>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://priyanshudubey.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshudubey/)
+[![YouTube](https://img.shields.io/badge/TOASTER_CODE-FF0033?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@toastercode)
+[![Medium](https://img.shields.io/badge/WRITING-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@priyanshu0dubey)
 
-<br>
+</div>
 
-<table align="center">
-  <thead>
-  <tr>
-    <td align="center" colspan="3">
-    <a href="https://github.com/priyanshudubey#gh-light-mode-only">
-        <picture>
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only" width="470"/>
-        </picture>
-      </a>
-      <a href="https://github.com/priyanshudubey#gh-dark-mode-only">
-        <picture>
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only" width="470" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td align="center" width="45%">
-    <a href="https://github.com/priyanshudubey#gh-light-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,3,4,14,15,18,20,24,25,26,27,28#gh-light-mode-only" alt="Let's connect" /> </a>
-      <a href="https://github.com/priyanshudubey#gh-dark-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=2,9,16,19,20,21,22,23,24,25&#gh-dark-mode-only" alt="let's connect" /> </a>
-      <br><br>
-      <a href="https://www.linkedin.com/in/priyanshudubey/"><img align="center" alt="LinkedIn" title="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-      &nbsp;
-      <a href="https://www.youtube.com/@toastercode"><img align="center" alt="YouTube" title="YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" /></a>
-      &nbsp;
-      <a href="https://twitter.com/priyanshudube15"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30px" /></a>
-      &nbsp;
-      <a href="https://medium.com/@priyanshu0dubey"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30px" /></a>
-      &nbsp;
-      <a href="https://www.instagram.com/ai.priyanshu/"><img align="center" alt="Instagram" title="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" /></a>
-      &nbsp;
-      <a href="mailto:priyanshu0dubey@gmail.com"><img align="center" alt="Gmail" title="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" /></a>
-      <br><br>
-      <a href="https://leetcode.com/u/priyanshudubey/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30px" /></a>
-    </td>
-    <td align="center" colspan="3">
-    <a href="https://github.com/priyanshudubey#gh-dark-mode-only">
-        <picture>
-          <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
-        </picture>
-      </a>
-      <a href="https://github.com/priyanshudubey#gh-light-mode-only">
-        <picture>
-          <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-  </tbody>
+---
 
+## `$ whoami`
+
+```python
+class Priyanshu:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.focus = ["Backend Engineering", "AI Engineering"]
+        self.languages = ["JavaScript", "Python", "TypeScript"]
+        self.current_stack = ["Node.js", "AWS", "MySQL", "React"]
+        self.interests = [
+            "System Design",
+            "Distributed Systems",
+            "AI Agents",
+            "Developer Tools"
+        ]
+
+    def philosophy(self):
+        return "Understand the problem before writing the code."
+
+    def currently_doing(self):
+        return "Building, experimenting and teaching."
+```
+
+I'm a software engineer who enjoys understanding how things work beneath the surface.
+
+From designing backend APIs and working with cloud infrastructure to experimenting with AI-powered applications, I like turning interesting problems into working solutions.
+
+I also create educational content through **[Toaster Code](https://www.youtube.com/@toastercode)**, where I break down programming concepts and engineering ideas.
+
+---
+
+## `$ ls ./featured-projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ DevElevator
+
+**AI-powered developer workspace**
+
+A platform that helps developers understand, analyze and improve their codebases.
+
+- GitHub repository analysis
+- AI-powered code conversations
+- Code health and security insights
+- AI-assisted fixes and pull requests
+- Multiple AI model integrations
+
+`Node.js` `React` `RAG` `Supabase` `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### ✉️ Email Template System
+
+**A template management application**
+
+A full-stack application for creating and managing reusable email templates.
+
+- Template creation and editing
+- Rich-text editing experience
+- Backend API integration
+- Persistent MySQL storage
+
+`React` `Node.js` `Express` `MySQL`
+
+[View repository →](https://github.com/priyanshudubey/email-template-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Resume Builder
+
+**Build and manage professional resumes**
+
+A full-stack resume builder designed to simplify resume creation.
+
+`React` `Node.js` `Express` `Tailwind CSS`
+
+[View repository →](https://github.com/priyanshudubey/resume-builder)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 What's next?
+
+**Always experimenting.**
+
+Currently exploring AI engineering, autonomous agents, system design and better ways to build reliable software.
+
+The next interesting project is probably already brewing.
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-<h3 align="center">💻 Core Tech Stack</h3>
+## `$ tech --stack`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white" alt="Amazon DynamoDB"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+<div align="center">
 
-<br>
+**LANGUAGES**
 
-<a href="https://github.com/priyanshudubey#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting&textBg=false&fontAlign=50&fontAlignY=73&reversal=true&section=footer&fontSize=40#gh-light-mode-only" alt="Footer Light" width="100%" />
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0F?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=3776AB)
+
+**BACKEND & FRONTEND**
+
+![Node.js](https://img.shields.io/badge/Node.js-0B0B0F?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0B0B0F?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-0B0B0F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B0B0F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**CLOUD & DATABASES**
+
+![AWS](https://img.shields.io/badge/AWS-0B0B0F?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0B0B0F?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-0B0B0F?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0B0F?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0B0B0F?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+**TOOLS & WORKFLOW**
+
+![Git](https://img.shields.io/badge/Git-0B0B0F?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0B0B0F?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+</div>
+
+---
+
+## `$ git status`
+
+<div align="center">
+
+<a href="https://github.com/priyanshudubey">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshudubey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22C55E&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" />
 </a>
-<a href="https://github.com/priyanshudubey#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&text=Thanks%20for%20visiting&textBg=false&fontAlign=50&fontAlignY=73&reversal=true&section=footer&fontSize=40#gh-dark-mode-only" alt="Footer Dark" width="100%" />
+
+<a href="https://github.com/priyanshudubey">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudubey&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 </a>
+
+<br/>
+
+<a href="https://github.com/priyanshudubey">
+  <img width="95%" src="https://streak-stats.demolab.com?user=priyanshudubey&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=22C55E&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=888888" />
+</a>
+
+</div>
+
+---
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+**Have an interesting idea? Let's build something.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshudubey/)
+[![Email](https://img.shields.io/badge/Drop_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu0dubey@gmail.com)
+[![YouTube](https://img.shields.io/badge/Learn_with_me-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@toastercode)
+
+<br/>
+
+*Still learning. Still building. Still breaking things.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:09090b,50:17102b,100:09090b&section=footer" width="100%" />
+
+</div>
